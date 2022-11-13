@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **WHMCS modules**
+- 🔭 I’m currently working on **Laravel, Vue.js, MongoDB**
 
 - 🌱 I’m currently learning **Node.js, react**
 
