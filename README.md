@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bijoy</h1>
+<h1 align="center">Hi 👋, I'm Madhumita</h1>
 <h3 align="center">I spend my days with my hands in many different areas of web development from back end programming</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
