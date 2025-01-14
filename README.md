@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoykumardas&show_icons=true&locale=en" alt="mebkdas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mebkdas&" alt="mebkdas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoykumardas&" alt="mebkdas" /></p>
